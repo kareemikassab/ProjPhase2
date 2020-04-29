@@ -47,5 +47,5 @@ pusha
  cmp eax, 0x200000 ; Check if we mapped 2 MB.
  jl .pte_loop ; Jump if we still not mapped 2 MB
 
-   ; popa                                ; Restore all general purpose registers from the stack
-    ;ret
+  popa                                ; Restore all general purpose registers from the stack
+  ret
