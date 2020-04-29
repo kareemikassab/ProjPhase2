@@ -1,0 +1,20 @@
+                                           ####################################################################### Phase 1 ####################################################################
+REPORT
+####################################
+Code done by:
+Kareem Kassab       900182771
+Mohamed Zaieda      900181473
+Salaheldin Soliman  900182915
+Seif Rady           900183784
+
+Assumptions:
+We assume the code correction that will make it run on  a real PC will work as we did not test it(Hadeer said it was not necessary in the end). We added a partition table that is supposed to boot from a disk.
+
+
+Findings through research:
+- whether its big or little endian, the highest bits are always on the right (used in the table)
+
+Steps to run the code:
+    - open a terminal inside the main folder that has the make file
+    - write make run_myos
+

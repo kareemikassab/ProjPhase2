@@ -1,0 +1,14 @@
+Mohammed Zaieda
+Was responsible for adding stage two code and changing the inline documentation. I had to understand the code in the stage one and stage two in the slides such that when I add the piece of code I can inline it. Also contributed in the part of booting the code from a flash. Understood every slide of code. 
+
+
+Kareem Kassab
+Was responsible for getting research done on how to get the flash drive code booted. He had modified piece of code that was left there to figured out by us and commented those who are not needed in this phase. Also worked on filling the report required. Understood every slide of code.Also, he made the report and readme files.
+
+
+SalahEldin Sameh
+Was responsible for implementing the flash drive code and fixing the errors that were shown at first. He knows how to run the code the best and fix the errors in the code. Also worked on the readme file. Understood every slide of code. 
+
+
+Seif Rady
+Was responsible for filling stage one code and changing the inline documentation. He went through the code and understood it to add the inline documentation. He also discussed potential solutions for adding piece of code in the flash booting phase.
