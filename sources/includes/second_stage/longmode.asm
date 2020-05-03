@@ -3,7 +3,6 @@
 
 
 switch_to_long_mode:
-
-                  ; This function need to be written by you.
+; This function need to be written by you.
 
     ret
